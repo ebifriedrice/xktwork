@@ -10,7 +10,7 @@ const AboutPage: React.FC = () => {
     return (
         <div className="flex items-center justify-center bg-gray-100">
             <motion.div
-                className=" absolute top-[207%] w-full max-w-screen-lg mx-auto p-24 lg:p-20"
+                className=" absolute top-[209%] w-full max-w-screen-lg mx-auto p-10 lg:p-20"
                 initial="hidden"
                 animate="visible"
                 variants={sectionVariants}

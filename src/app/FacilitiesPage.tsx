@@ -5,7 +5,7 @@ const images = Array.from({length: 8}, (x,i) => `facility/${i+1}.jpg`)
 
 const FacilitiesSection: React.FC = () => {
     return (
-        <div id="facility" className="absolute w-full top-[410%] h-screen p-24 lg:p-28 ">
+        <div id="facility" className="absolute w-full top-[415%] h-screen p-10 lg:p-28 ">
             <SectionRight content={
                 <div>
                     <h2 className="text-3xl font-bold">Facility</h2>
