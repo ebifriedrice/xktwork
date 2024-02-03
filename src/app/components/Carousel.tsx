@@ -44,10 +44,10 @@ const Carousel: React.FC<CarouselProps> = ({ projects }) => {
                 </motion.div>
             </AnimatePresence>
 
-                <div className="text-white text-5xl absolute bottom-8 right-20 transform -translate-y-1/2 cursor-pointer">
+                <div className="text-white text-5xl absolute bottom-32 lg:bottom-8 right-24 transform -translate-y-1/2 cursor-pointer">
                     <button onClick={handlePrev}>&#8249;</button>
                 </div>
-                <div className=" text-white text-5xl absolute bottom-8 right-8 transform -translate-y-1/2 cursor-pointer">
+                <div className=" text-white text-5xl absolute bottom-32 lg:bottom-8 right-8 transform -translate-y-1/2 cursor-pointer">
                     <button onClick={handleNext}>&#8250;</button>
                 </div>
         </div>
