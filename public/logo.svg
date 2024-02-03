@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432.65 84.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: gray;
+        font-family: MrEavesXLModOT-Reg, MrEavesXLModOT-Reg;
+        font-size: 35.47px;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-1" d="m0,75.3l23.65-38.73L1.78.3h27.69l8.96,17.97.54,1L47.18.3h29.79l-23.66,35.97,24.47,39.03h-26.96l-12.74-21.87h.46l-11.56,21.87H0Z"/>
+        <path class="cls-1" d="m107.78,21.3L125.96,0h29.78l-23.97,28.3,29,47.3h-31.36l-16.22-26.58-5.53,6.18v20.4h-26.63V0h26.63l.11,21.3Z"/>
+        <path class="cls-1" d="m178.71,19.67h-21.26V0h67.33v19.67h-22.16v55.93h-23.91V19.67Z"/>
+      </g>
+      <text class="cls-2" transform="translate(222.84 75.68) scale(.94 1)"><tspan x="0" y="0">Engineering Inc.</tspan></text>
+    </g>
+  </g>
+</svg>
