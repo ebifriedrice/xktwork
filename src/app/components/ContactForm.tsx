@@ -66,7 +66,7 @@ const ContactForm: React.FC = () => {
       </div>
 
       {/* Alternative Contacts and Map */}
-      <div className="w-full md:w-3/5 p-10 md:text-sm">
+      <div className="w-full md:w-3/5 lg:p-10 md:text-sm">
         <p className="mb-4">
           If your browser does not support forms or you prefer not to use them, you can send e-mail directly to sales@xktengineering.com, call us at (707) 562-2500, or fax us at (707) 562-2565.
           <br />
@@ -81,7 +81,7 @@ const ContactForm: React.FC = () => {
         </p>
         <iframe
           title="Map"
-          className="w-full h-64"
+          className="w-full h-50 lg:h-64"
           src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1607701.5075046262!2d-122.266711!3d38.092686!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808574828b0e564f%3A0xb4373bcbd0a0502d!2s390%20Railroad%20Ave%2C%20Vallejo%2C%20CA%2094592!5e0!3m2!1sen!2sus!4v1706991698577!5m2!1sen!2sus"
           allowFullScreen
           loading="lazy"
